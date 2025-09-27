@@ -54,13 +54,3 @@ cout << endl;
 
     return 0;
 }
-Q2.cpp
-Displaying Q2.cpp.Next 
-Lab 02
-Abdullah Yaqoob
-•
-Aug 25
-10 points
-Due Aug 26, 1:30 AM
-Task 2
-Class comments
