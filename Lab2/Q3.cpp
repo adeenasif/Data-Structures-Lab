@@ -63,12 +63,3 @@ int main() {
     delete[] cols;  // fress the array of columns
     return 0;
 }
-Q3.cpp
-Displaying Q3.cpp.Previous
-Lab 02
-Abdullah Yaqoob
-•
-Aug 29
-10 points
-Due Aug 31, 11:59 PM
-Class comments
