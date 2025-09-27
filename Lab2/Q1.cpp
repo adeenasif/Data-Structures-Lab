@@ -120,12 +120,3 @@ int main() {
     }
     return 0;
 }
-Q1.cpp
-Displaying Q1.cpp.Next 
-Lab 02
-Abdullah Yaqoob
-•
-Aug 29
-10 points
-Due Aug 31, 11:59 PM
-Class comments
